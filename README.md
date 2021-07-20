@@ -7,8 +7,11 @@
 <a href="https://instagram.com/orlando__flores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="orlando__flores" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">About me:</h3>
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, SQL, MongoDB**
+
+- 📫 How to reach me **orlando_flores@id.uff.br**
+
+- ⚡ Fun fact **I was born in Venezuela**
 
 
 <h3 align="left">Languages and Tools:</h3>
