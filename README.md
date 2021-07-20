@@ -22,12 +22,12 @@
 <hr>
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&include_all_commits=true&theme=gotham&showicons=true" />
 </p>
 
 <br>
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-flores&langs_count=5&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-flores&langs_count=5&theme=gotham" />
 </p>
 
