@@ -21,13 +21,13 @@
 
 <hr>
 
-<a href="https://github.com/o-flores/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&theme=tokyonight&showicons=true" />
 </a>
 
 <br>
 
-<a href="https://github.com/o-flores/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-flores&langs_count=5&theme=tokyonight" />
 </a>
 
