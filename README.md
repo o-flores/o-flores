@@ -22,7 +22,7 @@
 <hr>
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&theme=tokyonight&showicons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true" />
 </p>
 
 <br>
