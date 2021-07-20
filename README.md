@@ -21,6 +21,6 @@
 
 <hr>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&theme=tokyonight&showicons=true)]()
+<div align="center">[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&theme=tokyonight&showicons=true)]()</div>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=o-flores&langs_count=5&theme=tokyonight)]()
+<div align="center">[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=o-flores&langs_count=5&theme=tokyonight)]()</div>
