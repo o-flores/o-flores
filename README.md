@@ -21,13 +21,13 @@
 
 <hr>
 
-<p>
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&theme=tokyonight&showicons=true" />
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&theme=tokyonight&showicons=true" />
 </p>
 
 <br>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-flores&langs_count=5&theme=tokyonight" />
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-flores&langs_count=5&theme=tokyonight" />
 </p>
 
