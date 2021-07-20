@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">About me:</h3>
-> 🌱 I’m currently learning **React
+> 🌱 I’m currently learning **React**
 
 
 <h3 align="left">Languages and Tools:</h3>
