@@ -21,13 +21,13 @@
 
 <hr>
 
-<a>
+<p>
   <img align="rigth" src="https://github-readme-stats.vercel.app/api/?username=o-flores&count_private=true&theme=tokyonight&showicons=true" />
-</a>
+</p>
 
 <br>
 
-<a>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-flores&langs_count=5&theme=tokyonight" />
-</a>
+</p>
 
