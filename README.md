@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React, SQL, MongoDB**
 
+- 💼 Studying to evolve as a Web developer;
+
 - 📫 How to reach me **orlando_flores@id.uff.br**
 
 - ⚡ Fun fact **I was born in Venezuela**
