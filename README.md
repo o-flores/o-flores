@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orlando</h1>
 <h3 align="center">An (almost) FullStack developer from Brazil | Tryber</h3>
 
-- 🌱 I’m currently learning **React, SQL, MongoDB**
+- 🌱 I’m currently learning **React, SQL, MongoDB, Node**
 
 - 💼 Studying to evolve as a FullStack Web developer;
 
