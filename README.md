@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, Apollo, Graphql**
 
-- 💼 Studying to evolve as a FullStack Web developer;
+- 💼 Studying to evolve as a Frontend Web developer;
 
 - 📫 How to reach me **orlando_flores@id.uff.br**
 
