@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orlando</h1>
-<h3 align="center">An (almost) FullStack developer from Brazil | Tryber</h3>
+<h3 align="center">Front-end developer from Brazil | Tryber</h3>
 
 - 🌱 I’m currently learning **React, TypeScript, Apollo, Graphql**
 
