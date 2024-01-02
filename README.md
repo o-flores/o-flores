@@ -5,7 +5,7 @@
 
 - 💼 Studying to evolve as a Frontend Web developer;
 
-- 📫 How to reach me **orlando_flores@id.uff.br**
+- 📫 How to reach me **orlando.r.flores.s@gmail.com**
 
 - ⚡ Fun fact **I was born in Venezuela**
 
